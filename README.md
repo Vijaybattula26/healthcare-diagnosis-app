@@ -1,4 +1,4 @@
-#AI healthcare-diagnosis-app
+AI healthcare-diagnosis-app
 
 📜 Project Overview
 The AI Healthcare Diagnosis System is a machine learning-driven web application that assists users in diagnosing potential health issues based on their symptoms. This system utilizes NLP (Natural Language Processing) and machine learning models to suggest possible diseases based on the input symptoms.
